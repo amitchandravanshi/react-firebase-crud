@@ -5,6 +5,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>React Firebase CRUD Operations</h1>
+        <h2>In a desi style</h2>
       </div>
     );
   }
